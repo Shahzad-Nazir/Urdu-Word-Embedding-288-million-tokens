@@ -8,6 +8,7 @@ just download the model and put it in your project file. You can use model in .p
 from gensim.models import KeyedVectors
 
 model = KeyedVectors.load("vectors/vector-500/model_urdu500-5.model", mmap='r')
+
 print(model.most_similar("سندھ" ))
 
 # Code
