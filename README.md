@@ -14,3 +14,5 @@ print(model.most_similar("سندھ" ))
 # Code
 The code for training is made available. UrduWordEmbeddingModel.py can create a complete trained model
 
+# If you find it helpful, please cite our research work
+[https://ieeexplore.ieee.org/document/9770772](https://ieeexplore.ieee.org/document/9770772)
